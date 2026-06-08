@@ -1,0 +1,28 @@
+{
+  "name": "Rahu",
+  "symbol": "RAHU",
+  "description": "Rahu is a Solana token inspired by the cosmic force of Rahu.",
+  "image": "YOUR_IMAGE_URL",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Origin",
+      "value": "Cosmic"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "YOUR_IMAGE_URL",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "YOUR_WALLET_ADDRESS",
+        "share": 100
+      }
+    ]
+  }
+}

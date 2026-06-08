@@ -2,7 +2,7 @@
   "name": "Rahu",
   "symbol": "RAHU",
   "description": "Rahu is a Solana token inspired by the cosmic force of Rahu.",
-  "image": "YOUR_IMAGE_URL",
+  "image": "https://raw.githubusercontent.com/Hate009/rahu-metadata/refs/heads/main/rahu%20logo%201.JPG",
   "seller_fee_basis_points": 0,
   "attributes": [
     {
@@ -13,14 +13,14 @@
   "properties": {
     "files": [
       {
-        "uri": "YOUR_IMAGE_URL",
+        "uri": "https://raw.githubusercontent.com/Hate009/rahu-metadata/refs/heads/main/rahu%20logo%201.JPG",
         "type": "image/png"
       }
     ],
     "category": "image",
     "creators": [
       {
-        "address": "YOUR_WALLET_ADDRESS",
+        "address": "14tLQt6kLZCZ63oJyRhNMRXGmHn9iaFn7nWyExdSjXoH",
         "share": 100
       }
     ]
